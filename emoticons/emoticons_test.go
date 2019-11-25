@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/carolynvs/emote/config"
+	"github.com/morgulbrut/emote/config"
 	"github.com/stretchr/testify/assert"
 )
 

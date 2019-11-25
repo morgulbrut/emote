@@ -1,4 +1,4 @@
-module github.com/carolynvs/emote
+module github.com/morgulbrut/emote
 
 go 1.12
 

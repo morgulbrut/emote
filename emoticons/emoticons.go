@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/atotto/clipboard"
-	"github.com/carolynvs/emote/config"
+	"github.com/morgulbrut/emote/config"
 )
 
 type App struct {
