@@ -3,3 +3,5 @@ dest = "slack"
 [emoticon]
   shrug = '¯\_(ツ)_/¯'
   tableflip = '(╯°□°）╯︵ ┻━┻'
+  sleeping = '(⇀‿‿↼)'
+  cool = '(⌐■_■)'
